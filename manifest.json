@@ -1,12 +1,8 @@
 {
   "schema": 1,
   "repo": "EMH-Kutb/pharma-core-updates",
-  "core_version": 1,
-  "core_url": "https://github.com/EMH-Kutb/pharma-core-updates/releases/download/v1.0.0/pharma_core.enc",
-  "core_sha256": "cbd2b69b2fcf4b0773da6d85ccc576ba6409ad9e40f8ee28f96301a79aa8183d",
-  "core_size_bytes": 15978754,
-  "ar_version": 1,
-  "ar_url": "https://github.com/EMH-Kutb/pharma-core-updates/releases/download/v1.0.0/pharma_ar_overlay.enc",
-  "ar_sha256": "d3df6dc241eb641bfb05638e2fd89ba4a1d34744758862cc5fd78395c478c450",
-  "ar_size_bytes": 360026
+  "core_version": 2,
+  "core_url": "https://github.com/EMH-Kutb/pharma-core-updates/releases/download/v1.2.0/pharma_core.enc",
+  "core_sha256": "7a9c7c059e6dfbe1383388845a35ae82c5e76193a7aca663b03edc8957dc4edb",
+  "core_size_bytes": 43971636
 }
